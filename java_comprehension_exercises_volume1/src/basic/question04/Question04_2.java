@@ -24,6 +24,7 @@ public class Question04_2 {
 		ageGroup[3] = temporaryAge;
 
 		System.out.println("４番目の人の年齢は" + ageGroup[3] + "歳です。");
+		System.out.println("人数は" + ageGroup.length + "人です。");
 
 	}
 
